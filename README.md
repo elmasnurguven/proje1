@@ -1,3 +1,23 @@
+# SQL Data Analysis Project
+
+This project is based on a SQL training project provided by Code2Work.
+
+## 📌 What I Did
+- Solved all SQL query tasks
+- Implemented queries using Python
+- Passed all test cases successfully
+
+## 🛠 Technologies
+- Python
+- PostgreSQL
+- SQL
+- pytest
+
+## ✅ Results
+- 10/10 tests passed
+
+## 📎 Reference
+Original project: https://github.com/Code2Work/data-science-project-1
 # Data Science SQL Project 1 - THE BASICS
 
 ## Proje Kurulumu
